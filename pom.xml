@@ -8,11 +8,11 @@
 		<version>2.7.12</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>ar.edu.utn.frc.tup.lciii</groupId>
-	<artifactId>Chess</artifactId>
+	<groupId>Ensolvers.Test</groupId>
+	<artifactId>test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Chess</name>
-	<description>Chess game for lciii</description>
+	<name>EnsolversTest</name>
+	<description></description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
